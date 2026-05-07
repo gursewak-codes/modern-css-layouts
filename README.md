@@ -6,12 +6,12 @@ Practice project based on **Flexbox Froggy** and **Grid Garden** concepts using 
 ---
 
 ## 🖼️ Flexbox Practice  
-![Flexbox Practice](./screenshot1.png)
+![Flexbox Practice](./screenshot1.png.png)
 
 ---
 
 ## 🖼️ Grid Practice  
-![Grid Practice](./screenshot2.png)
+![Grid Practice](./screenshot2.png.png)
 
 ---
 
